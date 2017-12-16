@@ -1,2 +1,2 @@
 # AdmissionForm-html
-How to create an admission form in HTML
+How to create an admission form in HTML/CSS
